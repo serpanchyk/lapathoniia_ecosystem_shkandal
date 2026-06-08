@@ -8,10 +8,5 @@
   "github": "https://github.com/your-org/your-repo",
   "logo": "assets/logo.svg",
   "cover": "assets/cover.svg",
-  "category": "education",
-  "models": [
-    "LapaLLM-Gemma-3-12B-v0.1.2-instruct"
-  ],
   "contact_email": "team@example.com"
 }
-
