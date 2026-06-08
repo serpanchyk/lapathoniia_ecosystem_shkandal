@@ -1,0 +1,17 @@
+{
+  "name": "Example Project",
+  "team": "Example Team",
+  "description_uk": "Коротко опишіть, що робить ваш проєкт і як він використовує українські LLM через Lapathoniia.",
+  "description_en": "Briefly describe what your project does and how it uses Ukrainian LLMs through Lapathoniia.",
+  "website": "https://example.com",
+  "demo": "https://example.com/demo",
+  "github": "https://github.com/your-org/your-repo",
+  "logo": "assets/logo.svg",
+  "cover": "assets/cover.svg",
+  "category": "education",
+  "models": [
+    "LapaLLM-Gemma-3-12B-v0.1.2-instruct"
+  ],
+  "contact_email": "team@example.com"
+}
+
