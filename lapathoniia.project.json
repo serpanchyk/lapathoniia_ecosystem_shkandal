@@ -1,12 +1,12 @@
 {
-  "name": "Example Project",
-  "team": "Example Team",
-  "description_uk": "Опис до 50 слів: що робить проєкт і як він використовує українські LLM через Lapathoniia.",
-  "description_en": "Description up to 50 words: what the project does and how it uses Ukrainian LLMs through Lapathoniia.",
-  "website": "https://example.com",
-  "demo": "https://example.com/demo",
-  "github": "https://github.com/your-org/your-repo",
+  "name": "Шкандаль",
+  "team": "Волинська Спілка",
+  "description_uk": "Шкандаль — платформа моніторингу українських публічних справ, скандалів і розслідувань. Вона збирає новини, структурує їх у справи, події та учасників, а українські LLM через Lapathoniia допомагають аналізувати тексти, зіставляти статті й оновлювати контекст.",
+  "description_en": "Shkandal is a platform for monitoring Ukrainian public cases, scandals, and investigations. It collects news, structures them into cases, events, and actors, while Ukrainian LLMs accessed through Lapathoniia help analyze articles, match related stories, and maintain evolving context.",
+  "website": "http://161.35.207.41/",
+  "demo": "http://161.35.207.41/",
+  "github": "https://github.com/serpanchyk/shkandal",
   "logo": "assets/logo.svg",
   "cover": "assets/cover.svg",
-  "contact_email": "team@example.com"
+  "contact_email": "anton.mykhalchuk.ua@gmail.com"
 }
